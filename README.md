@@ -27,7 +27,7 @@ This is a simple Python implementation of the classic **Rock, Paper, Scissors** 
 Just Python 3.x. No external libraries needed.
 
 ## 📸 Screenshot
-![Screenshot](rock-paper-scissors-screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ## 🛠️ How to Run
 
@@ -36,7 +36,7 @@ python rock_paper_scissors.py
 ```
 
 ## 🔗 Connect with Me
-Feel free to check out my other projects or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to check out my other projects or connect with me on [LinkedIn](https://www.linkedin.com/in/idkgarvit).
 
 ---
 
