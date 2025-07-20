@@ -36,7 +36,7 @@ python rock_paper_scissors.py
 ```
 
 ## 🔗 Connect with Me
-Feel free to check out my other projects or connect with me on [LinkedIn](https://www.linkedin.com/in/idkgarvit).
+Feel free to check out my other projects or connect with me on [LinkedIn](https://www.linkedin.com/in/garvit-kanojia-399701277/).
 
 ---
 
